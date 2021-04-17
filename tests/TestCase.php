@@ -2,7 +2,6 @@
 
 namespace Pushpak1300\LaravelPhpkiteconnect\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Pushpak1300\LaravelPhpkiteconnect\LaravelPhpKiteConnectServiceProvider;
 
